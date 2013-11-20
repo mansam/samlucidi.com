@@ -1,6 +1,32 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
 .contact {
   padding-left: 15%;
   /*padding-right: 20%;*/
+}
+
+.pure-u-3-10 {
+  width: 30%;
+  display: inline-block;
+  letter-spacing: normal;
+  word-spacing: normal;
+  vertical-align: top;
+  text-rendering: auto;
+}
+
+.pure-u-2-10 {
+  width: 20%;
+  display: inline-block;
+  letter-spacing: normal;
+  word-spacing: normal;
+  vertical-align: top;
+  text-rendering: auto;
+}
+
+.pure-u-5-10 {
+  width: 50%;
 }
 
 .projects {
@@ -41,6 +67,11 @@ p {
 body {
   font-family: "Noto Sans", sans-serif;
 }
+
+.posts {
+  padding-left: 5%;
+}
+
 .translucent.background {
   position: absolute;
   top: 0;
@@ -57,16 +88,17 @@ body {
   padding-right: 5%;
 }
 
-.faint-left-border {
+.faint-border {
   border-left-style: dashed;
+  border-right-style: dashed;
   border-width: 1px;
   border-color: #aaa;
 }
-
+/*
 .padding-right-5 {
   padding-right: 5%;
 }
-
+*/
 .container {
   border-color: #444;
   padding-bottom: 1em;
@@ -108,4 +140,13 @@ a:visited {
   .container { width: 400px; padding-right: 10%; }
   .pure-u-1-5 { width: 400px; }
   .pure-u-3-5 { width: 400px; }
+}
+
+pre {
+  background-color: #ddd;
+  width: 90%;
+  font-size: 9pt;
+  overflow-x: auto;
+  padding: 2%;
+  white-space: pre;
 }
