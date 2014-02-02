@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+    <title>Sam Lucidi</title>
+    <subtitle>The personal site of Sam "mansam" Lucidi</subtitle>
+    <link href="http://mansam.github.io/atom.xml" rel="self" />
+    <link href="http://mansam.github.io" />
+    <id>tag:mansam.github.io,2014-02-02:/20140202051118839</id>
+    <updated>2014-02-02T00:11:18+05:00</updated>
+ 
+    <entry>
+        <title>Getting Started with Cucumber</title>
+        <link href="http://mansam.github.io/articles/testing-with-cucumber.html" />
+        <link rel="alternate" type="text/html" href="http://mansam.github.io/articles/testing-with-cucumber.html"/>
+        <id>tag:mansam.github.io,2013-11-20:/articles/testing-with-cucumber.html</id>
+        <updated>2013-11-20T18:30:02Z</updated>
+        <summary>Note: This tutorial assumes you have a modern version of Ruby and RubyGems installed. If you don't, try using the Ruby Version Manager to install it. To get started, install Cucumber from RubyGems with the gem command...
+        </summary>
+            <author>
+                  <name>Sam Lucidi</name>
+                  <email>mansam@csh.rit.edu</email>
+            </author>
+    </entry>
+
+</feed>
