@@ -8,6 +8,20 @@
     <link href="http://mansam.github.io" />
     <id>tag:mansam.github.io,2014-02-02:/20140202051118839</id>
     <updated>2014-02-13T00:16:45+05:00</updated>
+
+    <entry>
+        <title>FOSS@RIT Proposal for Sprint 1<</title>
+        <link href="http://mansam.github.io/articles/configuring-python-development-environment.html" />
+        <link rel="alternate" type="text/html" href="http://mansam.github.io/articles/configuring-python-development-environment.html"/>
+        <id>tag:mansam.github.io,2014-02-12:/articles/configuring-python-development-environment.html</id>
+        <updated>2014-02-12T14:30:00Z</updated>
+        <summary>A guide to setting up a fresh Python dev environment with virtualenv....
+        </summary>
+            <author>
+                  <name>Sam Lucidi</name>
+                  <email>mansam@csh.rit.edu</email>
+            </author>
+    </entry>
  
     <entry>
         <title>FOSS@RIT Proposal for Sprint 1<</title>
