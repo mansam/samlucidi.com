@@ -7,8 +7,22 @@
     <link href="http://mansam.github.io/atom.xml" rel="self" />
     <link href="http://mansam.github.io" />
     <id>tag:mansam.github.io,2014-02-02:/20140202051118839</id>
-    <updated>2014-02-02T00:11:18+05:00</updated>
+    <updated>2014-02-13T00:16:45+05:00</updated>
  
+    <entry>
+        <title>FOSS@RIT Proposal for Sprint 1<</title>
+        <link href="http://mansam.github.io/articles/sprint1-project-proposal.html" />
+        <link rel="alternate" type="text/html" href="http://mansam.github.io/articles/sprint1-project-proposal.html"/>
+        <id>tag:mansam.github.io,2014-02-13:/articles/sprint1-project-proposal.html</id>
+        <updated>2014-02-13T16:44:02Z</updated>
+        <summary>`when` is a more intutive library for dealing with date formatting in Python....
+        </summary>
+            <author>
+                  <name>Sam Lucidi</name>
+                  <email>mansam@csh.rit.edu</email>
+            </author>
+    </entry>
+
     <entry>
         <title>Getting Started with Cucumber</title>
         <link href="http://mansam.github.io/articles/testing-with-cucumber.html" />

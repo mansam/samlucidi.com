@@ -154,3 +154,7 @@ pre {
   padding: 2%;
   white-space: pre;
 }
+
+p.bio {
+  margin-right: .5em;
+}
